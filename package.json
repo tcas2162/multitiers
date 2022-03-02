@@ -1,7 +1,7 @@
 {
-  "name": "threetiers",
+  "name": "multitiers",
   "version": "1.0.0",
-  "description": "three tiers",
+  "description": "multi tiers",
   "main": "http_server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tcas2162/threetiers.git"
+    "url": "git+https://github.com/tcas2162/multitiers.git"
   },
   "author": "timothy.e.casey@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tcas2162/threetiers/issues"
+    "url": "https://github.com/tcas2162/multitiers/issues"
   },
-  "homepage": "https://github.com/tcas2162/threetiers#readme",
+  "homepage": "https://github.com/tcas2162/multitiers#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
